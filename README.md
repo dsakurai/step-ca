@@ -3,6 +3,7 @@ Step-CA Configuration
 
 Intialize step-ca
 ---
+
 ```
 ./0-initialize.sh
 ```
